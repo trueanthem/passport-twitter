@@ -36,7 +36,7 @@
   "main": "./lib",
   "dependencies": {
     "passport-oauth1": "1.x.x",
-    "xtraverse": "0.1.x"
+    "xtraverse": "trueanthem/node-xtraverse"
   },
   "devDependencies": {
     "make-node": "0.4.6",
